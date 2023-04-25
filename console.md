@@ -1,2 +1,2 @@
-dotnet new console - создать новый проект
-dotnet run - запустить проект 
+1. dotnet new console - создать новый проект
+2. dotnet run - запустить проект 
