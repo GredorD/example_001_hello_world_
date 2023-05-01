@@ -1,4 +1,4 @@
-﻿int namberA = 10;
-int namberB = 2;
-int result = namberA / namberB;
+﻿double namberA = 12;
+double namberB = 5;
+double result = namberA / namberB;
 Console.WriteLine(result);
